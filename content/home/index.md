@@ -25,7 +25,7 @@ A better world is one where we all have access to endless information and oppurt
 
 |||
 
-![Image](/images/OWAsset-15.png#large)
+![Image](OWAsset-15.png#large)
 
 {% end %}
 
@@ -35,7 +35,7 @@ A better world is one where we all have access to endless information and oppurt
 
 <br>
 
-![Image](/images/OWAsset-16.png)
+![Image](OWAsset-16.png)
 
 ### THE END OF
 
@@ -53,7 +53,7 @@ Learn whatever your heart desires. Access any oppurtunity to earn. Enter any sho
 
 <br>
 
-![Image](/images/OWAsset-17.png)
+![Image](OWAsset-17.png)
 
 <br>
 
@@ -83,7 +83,7 @@ Learn whatever your heart desires. Access any oppurtunity to earn. Enter any sho
 
 <br>
 
-![Image](/images/OWAsset-19.png)
+![Image](OWAsset-19.png)
 
 <br>
 
@@ -97,7 +97,7 @@ Learn whatever your heart desires. Access any oppurtunity to earn. Enter any sho
 
 <br>
 
-![Image](/images/OWAsset-20.png)
+![Image](OWAsset-20.png)
 
 <br>
 
@@ -113,7 +113,7 @@ Learn whatever your heart desires. Access any oppurtunity to earn. Enter any sho
 
 {% row(style="center lean-left" bgColor="#c4ffeb") %}
 
-![Image](/images/OWAsset-21.png)
+![Image](OWAsset-21.png)
 
 |||
 
@@ -145,7 +145,7 @@ OurVerse users are protected through ThreeFold's digital twin. This allows every
 
 <br>
 
-![Image](/images/OWAsset-22.png)
+![Image](OWAsset-22.png)
 
 {% end %}
 
@@ -153,7 +153,7 @@ OurVerse users are protected through ThreeFold's digital twin. This allows every
 
 {% row(style="center lean-left" bgColor="#c6f8ff") %}
 
-![Image](/images/OWAsset-23.png)
+![Image](OWAsset-23.png)
 
 |||
 
