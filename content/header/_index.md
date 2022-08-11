@@ -10,6 +10,6 @@ extra:
 
 - [HOME]("/")
 - [BLOGS]("/blog")
-- [USE CASES]("/")
+- [USE CASES]("/use-cases")
 - [TECH]("/")
 - [GET IN TOUCH]("mailto:info@ourverse.tf")
