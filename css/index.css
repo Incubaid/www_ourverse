@@ -51,6 +51,10 @@ img[src*="#large"] {
   margin: auto;
 }
 
+img[src*="#auto"] {
+  margin: auto;
+}
+
 img[src*="#tft_img"] {
   width: 150px;
   margin: 8px;

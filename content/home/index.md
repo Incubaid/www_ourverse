@@ -35,7 +35,7 @@ A better world is one where we all have access to endless information and oppurt
 
 <br>
 
-![Image](OWAsset-16.png)
+![Image](OWAsset-16.png#auto)
 
 ### THE END OF
 
@@ -176,7 +176,10 @@ This provides every OurVerse community with unparalleled security to each user a
 
 {% row(style="center invert-color" bgColor="#4dc48f" margin="narrow") %}
 
-## WANNA GET **INVOLVED?**
+<br>
+<br>
+
+### WANNA GET **INVOLVED?**
 
 <br/>
 
