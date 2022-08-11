@@ -67,7 +67,7 @@ Learn whatever your heart desires. Access any oppurtunity to earn. Enter any sho
 
 <br>
 
-![Image](/images/OWAsset-18.png)
+![Image](OWAsset-18.png)
 
 <br>
 
