@@ -20,4 +20,4 @@
            git log -1
            git restore static/css/index.css
            git pull
-           npm run build
+           npm run build 
