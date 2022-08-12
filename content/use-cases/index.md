@@ -9,7 +9,7 @@ extra:
   imgPath:
 ---
 
-{% row(style="center lean-right") %}
+{% row(style="center lean-right" margin="narrow") %}
 
 ## EXPLORE **AWESOME.**
 
@@ -23,7 +23,7 @@ already in OurVerse.
 
 |||
 
-![Image](/images/OVAsset-33.jpg)
+![Image](OWAsset-17.png)
 
 {% end %}
 
@@ -31,7 +31,7 @@ already in OurVerse.
 
 {% row(style="center moderate" anchor="experiences") %}
 
-![Image](/images/OVAsset-27.jpg)
+![Image](oWAsset_39.png)
 
 <br/>
 
@@ -45,7 +45,7 @@ already in OurVerse.
 
 |||
 
-![Image](/images/OVAsset-28.jpg)
+![Image](oWAsset_34.png)
 
 <br/>
 
@@ -61,7 +61,7 @@ already in OurVerse.
 
 {% row(style="center moderate") %}
 
-![Image](/images/OVAsset-29.jpg)
+![Image](oWAsset_35.png)
 
 <br/>
 
@@ -75,7 +75,7 @@ already in OurVerse.
 
 |||
 
-![Image](/images/OVAsset-30.jpg)
+![Image](oWAsset_36.png)
 
 <br/>
 
@@ -91,7 +91,7 @@ already in OurVerse.
 
 {% row(style="center moderate") %}
 
-![Image](/images/OVAsset-31.jpg)
+![Image](oWAsset_37.png)
 
 <br/>
 
@@ -105,7 +105,7 @@ already in OurVerse.
 
 |||
 
-![Image](/images/OVAsset-32.jpg)
+![Image](oWAsset_38.png)
 
 <br/>
 
@@ -121,11 +121,18 @@ already in OurVerse.
 
 {{ space() }}
 
+
+
 {% row(style="center narrow invert-color" bgColor="#2d103e") %}
 
-## GOT A
 
-## **COOL IDEA?**
+<br>
+<br>
+
+
+### GOT A
+
+### **COOL IDEA?**
 
 <br/>
 
