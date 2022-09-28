@@ -12,12 +12,12 @@ jobs:
         uses: appleboy/ssh-action@master
         with:
           host: www2.ourverse.tf
-          username: root
+          username: webuser
           key: ${{ secrets.TF_SECRET }}
-          port: 22
+          port: 34022
           script: |
-            cd /opt/www_ourverse/
+            cd /home/webuser/websites/www2/www_ourverse/
             git log -1
             git restore static/css/index.css
             git pull
-            npm run build
+            bash build.sh
