@@ -1,4 +1,6 @@
-# OurWorld Website
+# OurVerse Website
+
+https://ourverse.tf/
 
 
 - deployed site on https://ourworld-tsc.github.io/www_ourverse gets updated on each development branch update
