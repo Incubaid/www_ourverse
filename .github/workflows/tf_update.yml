@@ -1,7 +1,7 @@
 name: ourverse.tf
 on:
   push:
-    branch: [development]
+    branch: [master]
 
 jobs:
   job_one:
@@ -18,6 +18,6 @@ jobs:
           script: |
             cd /home/webuser/websites/www_ourverse
             git log -1
-            git restore static/css/index.css
+            git restore .
             git pull
             bash build.sh
