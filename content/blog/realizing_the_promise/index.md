@@ -8,7 +8,7 @@ taxonomies:
 extra:
   subtitle: "Together with our global community, we're realizing the initial promise of an open-source, peer-to-peer Internet owned by the people."
   author: "Sacha Obeegadoo"
-  imgPath: images/threefold_blog2.png
+  imgPath: realizing_the_promise.png
   isFeatured: "true"
 ---
 
