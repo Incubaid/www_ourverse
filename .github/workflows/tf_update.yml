@@ -16,7 +16,7 @@ jobs:
           key: ${{ secrets.TF_SECRET }}
           port: 34022
           script: |
-            cd /home/webuser/websites/www2/www_ourverse/
+            cd websites/www2/www_ourverse/
             git log -1
             git restore .
             git pull
