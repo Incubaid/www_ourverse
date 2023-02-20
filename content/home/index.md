@@ -200,6 +200,6 @@ Interested in partnering up? Or just wanna say hi?
 
 Drop us a message!
 
-<button>[Email](mailto:info@ourverse.tf)</button>
+<button>[Email]("mailto:info@ourverse.tf")</button>
 
 {% end %}

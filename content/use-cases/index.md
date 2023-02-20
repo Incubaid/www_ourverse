@@ -140,6 +140,6 @@ Drop us a line and let us know.
 
 We are always looking out for creative suggestions!
 
-<button>[Email](mailto:info@ourverse.tf)</button>
+<button>[Email]("mailto:info@ourverse.tf")</button>
 
 {% end %}
