@@ -11,5 +11,5 @@ extra:
 - [HOME]("/")
 - [BLOGS]("/blog")
 - [USE CASES]("/use-cases")
-- [TECH]("/")
+- [TECH]("https://threefold.io/")
 - [GET IN TOUCH]("mailto:info@ourverse.tf")

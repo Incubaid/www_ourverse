@@ -21,7 +21,7 @@ extra:
 
 A better world is one where we all have access to endless information and oppurtunities. OurVerse exists to achieve that dream.
 
-<button>[Explore]("")</button>
+<button>[Explore]("https://ourverse.tf/use-cases/")</button>
 
 |||
 
@@ -111,7 +111,11 @@ Learn whatever your heart desires. Access any oppurtunity to earn. Enter any sho
 
 {{ space() }}
 
+
 {% row(style="center lean-left" bgColor="#c4ffeb") %}
+
+<br>
+<br>
 
 ![Image](OWAsset-21.png)
 
@@ -128,6 +132,9 @@ Learn whatever your heart desires. Access any oppurtunity to earn. Enter any sho
 **Anything** you can do in the real world you can do in OurVerse. Only your own imagination limits you. Explore or start building experiences and start earning now!
 
 <button>[USE CASES](/use-cases)</button>
+
+<br>
+<br>
 
 {% end %}
 
@@ -153,6 +160,9 @@ OurVerse users are protected through ThreeFold's digital twin. This allows every
 
 {% row(style="center lean-left" bgColor="#c6f8ff") %}
 
+<br>
+<br>
+
 ![Image](OWAsset-23.png)
 
 |||
@@ -170,7 +180,10 @@ An OurVerse is created by utilizing the world's largest decentralized and peer-t
 
 This provides every OurVerse community with unparalleled security to each user and assures unprecedented sovereignty.
 
-<button>[DISCOVER THE TECH]("")</button>
+<button>[DISCOVER THE TECH]("https://threefold.io/")</button>
+
+<br>
+<br>
 
 {% end %}
 
@@ -187,6 +200,6 @@ Interested in partnering up? Or just wanna say hi?
 
 Drop us a message!
 
-<button>[Email](mailto:info@ourverse.tf)</button>
+<button>[Email]("mailto:info@ourverse.tf")</button>
 
 {% end %}
