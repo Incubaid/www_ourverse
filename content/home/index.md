@@ -180,7 +180,7 @@ An OurVerse is created by utilizing the world's largest decentralized and peer-t
 
 This provides every OurVerse community with unparalleled security to each user and assures unprecedented sovereignty.
 
-<button>[DISCOVER THE TECH]("https://threefold.io/")</button>
+<button>[DISCOVER THE TECH](https://threefold.io/)</button>
 
 <br>
 <br>
