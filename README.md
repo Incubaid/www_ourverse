@@ -9,3 +9,10 @@ https://ourverse.tf/
 ## howto use
 
 Information how to use the framework see https://github.com/threefoldfoundation/www_threefold_io#readme 
+
+Last Updated: February 2022
+
+## Contribution
+
+Feel free to [create a new issue](https://github.com/ourworld-tsc/www_ourverse/issues) to report an error on the website, or if you have any suggestions on website improvements. 
+
