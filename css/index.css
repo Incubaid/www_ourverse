@@ -37,7 +37,7 @@ img[src*="#small"] {
 }
 
 img[src*="#medium"] {
-  width: 400px;
+  width: 700px;
   margin: auto;
 }
 
@@ -66,19 +66,19 @@ img[src*="#tft_img"] {
 
 @layer components {
   h1 {
-    @apply text-6xl lg:text-9xl font-normal leading-none;
+    @apply text-5xl lg:text-8xl font-normal leading-none;
   }
   h1 strong {
     @apply font-semibold;
   }
   h2 {
-    @apply text-5xl lg:text-8xl font-normal leading-none;
+    @apply text-4xl lg:text-7xl font-normal leading-none;
   }
   h2 strong {
     @apply font-medium;
   }
   h3 {
-    @apply text-3xl lg:text-6xl font-normal leading-none;
+    @apply text-2xl lg:text-5xl font-normal leading-none;
   }
   h3 strong {
     @apply font-semibold;
@@ -116,6 +116,10 @@ img[src*="#tft_img"] {
     shadow
     capitalize;
   }
+  .article h2{
+    @apply text-3xl lg:text-4xl font-normal leading-none;
+  }
+  
 }
 
 button:hover :is(:where(a)) {
@@ -287,6 +291,12 @@ header {
 .header:hover .back {
   transform: none;
 }
+
+
+.article h2{
+
+}
+
 @media (max-width: 640px) {
   .banner h2 {
     font: 600 7vw/10vw;
