@@ -9,7 +9,8 @@ extra:
 ---
 
 - [HOME]("/")
-- [BLOGS]("/blog")
-- [USE CASES]("/use-cases")
-- [TECH]("https://threefold.io/")
-- [GET IN TOUCH]("mailto:info@ourverse.tf")
+- [INFO]("/blog")
+- [OURPHONE]("https://ourphone.tf")
+<!-- - [USE CASES]("/use-cases") -->
+- [TECH]("https://ourphone.tf/technology/")
+- [NEXT STEPS]("https://forms.gle/G2qoLLDAsGLdjNgX6")

@@ -2,7 +2,7 @@
 base_url = "https://www2.ourverse.tf"
 # Change this to your own URL! Please note this variable **must** be uncommented.
 
-title = "ThreeFold"
+title = "OurVerse"
 description="Our global digital backbone"
 
 # When set to "true", a feed is automatically generated.
@@ -57,17 +57,18 @@ feed = true
 paginate_by = 2
 paginate_path = "blog-posts"
 
+
 [[taxonomies]]
 name = "roles"
 feed = true
 paginate_by = 2
-paginate_path = "join-us"
+paginate_path = "blog-posts"
 
 [[taxonomies]]
 name = "tags"
 feed = true
 paginate_by = 2
-paginate_path = "join-us"
+paginate_path = "blog-posts"
 
 [extra]
 # Put all your custom variables here

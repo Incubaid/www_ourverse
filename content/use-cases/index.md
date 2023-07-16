@@ -9,8 +9,7 @@ extra:
   imgPath:
 ---
 
-{% row(style="center lean-right" margin="narrow") %}
-
+{% row(style="center") %}
 ## EXPLORE **AWESOME.**
 
 <br/>
@@ -29,93 +28,92 @@ already in OurVerse.
 
 {{ space() }}
 
-{% row(style="center moderate" anchor="experiences") %}
+{% row(style="center" margin="tight" anchor="experiences") %}
 
-![Image](oWAsset_39.png)
-
-<br/>
-
-### META
-
-### **SHOPPING**
+![Image](oWAsset_39.png#mx-auto#medium)
 
 <br/>
 
-##### Visit custom made shops in OurVerse and experience the future of e-commerce.
+#### META
+
+#### **SHOPPING**
+
+<br/>
+
+Visit custom made shops in OurVerse and experience the future of e-commerce.
 
 |||
 
-![Image](oWAsset_34.png)
+![Image](oWAsset_34.png#mx-auto#medium)
 
 <br/>
 
-### META
+#### META
 
-### **MEETINGS**
+#### **MEETINGS**
 
 <br/>
 
-##### Meeting rooms in OurVerse can help you carry your meetings from a grid to a conference room.
+Meeting rooms in OurVerse can help you carry your meetings from a grid to a conference room.
 
 {% end %}
 
-{% row(style="center moderate") %}
-
-![Image](oWAsset_35.png)
-
-<br/>
-
-### META
-
-### **EXHIBITIONS**
+{% row(style="center" margin="tight") %}
+![Image](oWAsset_35.png#mx-auto#medium)
 
 <br/>
 
-##### Visit exhibitions and experience art digitally as you would in an actual gallery.
+#### META
+
+#### **EXHIBITIONS**
+
+<br/>
+
+Visit exhibitions and experience art digitally as you would in an actual gallery.
 
 |||
 
-![Image](oWAsset_36.png)
+![Image](oWAsset_36.png#mx-auto#medium)
 
 <br/>
 
-### META
+#### META
 
-### **EVENTS**
+#### **EVENTS**
 
 <br/>
 
-##### Concerts, career fairs, anything you can imagine. OurVerse events redefine our understanding of virtual events.
+Concerts, career fairs, anything you can imagine. OurVerse events redefine our understanding of virtual events.
 
 {% end %}
 
-{% row(style="center moderate") %}
+{% row(style="center" margin="tight") %}
 
-![Image](oWAsset_37.png)
-
-<br/>
-
-### META
-
-### **SOCIALIZING**
+![Image](oWAsset_37.png#mx-auto#medium)
 
 <br/>
 
-##### Elevate your digital socializing experience from chat boxes to VR meetups.
+#### META
+
+#### **SOCIALIZING**
+
+<br/>
+
+Elevate your digital socializing experience from chat boxes to VR meetups.
 
 |||
 
-![Image](oWAsset_38.png)
+![Image](oWAsset_38.png#mx-auto#medium)
 
 <br/>
 
-### META
+#### META
 
-### **GAMING**
+#### **GAMING**
 
 <br/>
 
-##### Create and play any VR game you can imagine.
+Create and play any VR game you can imagine.
 
 {% end %}
 

@@ -11,7 +11,9 @@ extra:
 
 <!-- section 1 (header) -->
 
-{% row(style="center" margin="lean-right") %}
+<div class="container mx-auto">
+
+{% row(style="center" reverse="rightreserve" margin="header" padding="none") %}
 
 ### EXPERIENCE
 
@@ -23,19 +25,22 @@ A better world is one where we all have access to endless information and oppurt
 
 <button>[Explore]("https://ourverse.tf/use-cases/")</button>
 
+
+
 |||
 
-![Image](OWAsset-15.png#large)
+![Image](OWAsset-15.png#auto)
 
 {% end %}
 
-{{ space() }}
 
-{% row(style="center narrow") %}
+<!-- section 2 -->
+
+{% row(style="center" margin="tight") %}
+
+![Image](OWAsset-16.png#medium#auto)
 
 <br>
-
-![Image](OWAsset-16.png#auto)
 
 ### THE END OF
 
@@ -47,11 +52,10 @@ Learn whatever your heart desires. Access any oppurtunity to earn. Enter any sho
 
 {% end %}
 
-{{ space() }}
 
-{% row(style="center" margin="moderate") %}
+<!-- section 3 -->
 
-<br>
+{% row(style="center" margin="moderate" padding="none") %}
 
 ![Image](OWAsset-17.png)
 
@@ -65,8 +69,6 @@ Learn whatever your heart desires. Access any oppurtunity to earn. Enter any sho
 
 |||
 
-<br>
-
 ![Image](OWAsset-18.png)
 
 <br>
@@ -79,9 +81,7 @@ Learn whatever your heart desires. Access any oppurtunity to earn. Enter any sho
 
 {% end %}
 
-{% row(style="center moderate") %}
-
-<br>
+{% row(style="center moderate" padding="bottom") %}
 
 ![Image](OWAsset-19.png)
 
@@ -95,8 +95,6 @@ Learn whatever your heart desires. Access any oppurtunity to earn. Enter any sho
 
 |||
 
-<br>
-
 ![Image](OWAsset-20.png)
 
 <br>
@@ -109,17 +107,19 @@ Learn whatever your heart desires. Access any oppurtunity to earn. Enter any sho
 
 {% end %}
 
-{{ space() }}
+</div>
 
 
-{% row(style="center lean-left" bgColor="#c4ffeb") %}
 
-<br>
-<br>
+<!-- section 4 -->
+
+{% row(style="center" bgColor="#c4ffeb") %}
 
 ![Image](OWAsset-21.png)
 
 |||
+
+<div class="mx-8 px-8">
 
 # WORK.
 
@@ -133,12 +133,16 @@ Learn whatever your heart desires. Access any oppurtunity to earn. Enter any sho
 
 <button>[USE CASES](/use-cases)</button>
 
-<br>
-<br>
+</div>
 
 {% end %}
 
-{% row(style="center narrow") %}
+
+<!-- section 5 -->
+
+<div class="container mx-auto">
+
+{% row(style="center" margin="tight") %}
 
 <br>
 
@@ -152,23 +156,25 @@ OurVerse users are protected through ThreeFold's digital twin. This allows every
 
 <br>
 
-![Image](OWAsset-22.png)
+![Image](OWAsset-22.png#medium#auto)
 
 {% end %}
 
-{{ space() }}
+</div>
 
-{% row(style="center lean-left" bgColor="#c6f8ff") %}
 
-<br>
-<br>
+<!-- section 6 -->
+
+{% row(style="center" bgColor="#c6f8ff") %}
+
 
 ![Image](OWAsset-23.png)
 
 |||
 
-#### BUILT BY
+<div class="mx-8 px-8">
 
+#### BUILT BY
 ### TOGETHERNESS.
 
 <br>
@@ -176,21 +182,19 @@ OurVerse users are protected through ThreeFold's digital twin. This allows every
 An OurVerse is created by utilizing the world's largest decentralized and peer-to-peer of storage and compute: The ThreeFold Grid.
 
 <br>
-<br>
 
 This provides every OurVerse community with unparalleled security to each user and assures unprecedented sovereignty.
 
 <button>[DISCOVER THE TECH](https://threefold.io/)</button>
 
-<br>
-<br>
+</div>
 
 {% end %}
 
-{% row(style="center invert-color" bgColor="#4dc48f" margin="narrow") %}
 
-<br>
-<br>
+<!-- section 7 -->
+
+{% row(style="center invert-color" bgColor="#4dc48f" margin="narrow") %}
 
 ### WANNA GET **INVOLVED?**
 

@@ -1,17 +1,17 @@
-name: ourverse.tf
+name: www2.ourverse.tf
 on:
   push:
-    branch: [master]
+    branch: [development]
 
 jobs:
   job_one:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: pushing latest change on www.ourverse.tf
+      - name: pushing latest change on www2.ourverse.tf
         uses: appleboy/ssh-action@master
         with:
-          host: www.ourverse.tf
+          host: www2.ourverse.tf
           username: webuser
           key: ${{ secrets.TF_SECRET }}
           port: 34022
