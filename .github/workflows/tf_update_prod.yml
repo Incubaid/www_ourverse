@@ -1,0 +1,24 @@
+name: ourverse.tf
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  job_one:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: pushing latest change on ourverse.tf
+      uses: appleboy/ssh-action@master
+      with:
+        host: ourverse.tf
+        username: webuser
+        key: ${{ secrets.TF_SECRET }}
+        port: 34022
+        script: |
+          cd websites/www_ourverse/
+          git log -1
+          git clean -f
+          git pull
+          sed -i "s/https:\/\/www2.ourverse.tf/https:\/\/ourverse.tf/g" config.toml
+          ./build.sh
