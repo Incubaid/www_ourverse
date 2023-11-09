@@ -18,7 +18,7 @@ jobs:
         script: |
           cd websites/www_ourverse/
           git log -1
-          git clean -f
-          git pull
+          git fetch
+          git reset --hard origin/master
           sed -i "s/https:\/\/www2.ourverse.tf/https:\/\/ourverse.tf/g" config.toml
           ./build.sh
