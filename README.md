@@ -14,7 +14,7 @@ Last Updated: February 2022
 
 ## Contribution
 
-Feel free to [create a new issue](https://github.com/ourworld-tsc/www_ourverse/issues) to report an error on the website, or if you have any suggestions on website improvements. 
+Feel free to [create a new issue](https://git.ourworld.tf/tfgrid/circle_web_presence/issues)  to report an error on the website, or if you have any suggestions on website improvements. 
 
 ## Administrators
 [ThreeFold's Web Admins](https://github.com/orgs/threefoldfoundation/teams/team_web_admin)
